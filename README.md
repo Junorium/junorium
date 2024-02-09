@@ -1,16 +1,30 @@
-### Hi there 👋
+# Brainstorming
+Inputs:
+1. First name, last name
+2. Education, degrees, program
+3. Experience
+  * Occupation
+  * Place of occupation
+  * Date of employment
+5. References
+6. Projects
+  * Project title
+  * Project details
+  * Project deliverables
+7. Personal mobility
+  * University transcripts
+  * MOOC courses
+  * Open university certificates
+8. Publication activity
 
-<!--
-**Junorium/junorium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Outputs:
+1. ATS-Resume
+2. Printable Portfolio
+3. Profile
 
-Here are some ideas to get you started:
+# Requirements
+* Notify and link to relevant ATS-friendly certifications and skills
+* ATS-related terms through AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Note to self
+* Research ATS-friendly
